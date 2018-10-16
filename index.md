@@ -1,11 +1,12 @@
 ---
+layout: default
 title: "Thiago Burgo's Resume/CV"
 description: "A brief (not so much =D) professional history"
 ---
 
 # Thiago Burgo Belo
 
-> Idade: 33 anos  
+> Idade: 34 anos  
 > E-mail: [thiagoburgo@gmail.com](mailto:thiagoburgo@gmail.com)  
 > Linkedin: [https://www.linkedin.com/in/tbelo](https://www.linkedin.com/in/tbelo)  
 > Telefone: +55 (81) 9 8766-6007  
