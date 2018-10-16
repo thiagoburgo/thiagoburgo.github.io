@@ -13,10 +13,8 @@ Sou movido por desafios e procuro aprimorar meus conhecimentos através do estud
 
 # Experiências
 
-**Clintech**
-
-**Arquiteto Chefe/Team Leader e Sócio**
-
+## Clintech  
+**Arquiteto Chefe/Team Leader e Sócio**  
 _Maio de 2016 – até o momento_
 
 A empresa foi criada junto com o maior plano odontológico do nordeste, depois de executar uma consultoria que definiu os processos para criação de uma fábrica de software interna. Hoje a Clintech é o braço tecnológico e de inovação que suporta a transformação digital que a empresa está experimentando. Mudamos processos e criamos produtos inovadores, para aumentar a eficiência da operação e para atender nosso cliente final.
