@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Thiago Burgo's CV
+site.title: Thiago Burgo's CV
 ---
 
 # Thiago Burgo Belo
