@@ -1,3 +1,7 @@
+---
+title: Thiago Burgo's CV
+---
+
 # Thiago Burgo Belo
 
 > Idade: 33 anos  
