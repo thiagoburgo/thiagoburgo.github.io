@@ -146,52 +146,52 @@ Tecnologias: .NET, JAVA, Sharepoint 2007,2010, 2013, Android, SQLServer e outras
 
 > ## 2016 
 
-![alt](images/microsoft_small.png) **MCSD: App Builder** _Microsoft - set de 2016_  
+  - ![alt](images/microsoft_small.png) **MCSD: App Builder** _Microsoft - set de 2016_  
 
 > ## 2015 
 
-![alt](images/microsoft_small.png) **MCT: MCT Enrollment** _Microsoft - mar de 2015_  
+  - ![alt](images/microsoft_small.png) **MCT: MCT Enrollment** _Microsoft - mar de 2015_  
 
 > ## 2013
 
-![alt](images/microsoft_small.png) **SharePoint 2010, Application Development** _Microsoft - mai de 2013 (Licença E180-6580)_  
-![alt](images/microsoft_small.png) **SharePoint 2010, Configuration** _Microsoft - mai de 2013 (Licença E191-1476)_  
+  - ![alt](images/microsoft_small.png) **SharePoint 2010, Application Development** _Microsoft - mai de 2013 (Licença E180-6580)_  
+  - ![alt](images/microsoft_small.png) **SharePoint 2010, Configuration** _Microsoft - mai de 2013 (Licença E191-1476)_  
 
 > ## 2012
 
-![alt](images/microsoft_small.png) **Programming in HTML5 with JavaScript and CSS3 Specialist** _Microsoft - mai de 2012 (Licença E085-6397)_  
+  - ![alt](images/microsoft_small.png) **Programming in HTML5 with JavaScript and CSS3 Specialist** _Microsoft - mai de 2012 (Licença E085-6397)_  
 
 > ## 2011
 
-![alt](images/oracle_small.png) **OCJP - Oracle Certified Java Programer** _Oracle – jul de 2011_  
-![alt](images/microsoft_small.png) **MCPD: .NET Framework 4, Data Access** _Microsoft – mai de 2011 (Licença D246-4657)_  
-![alt](images/microsoft_small.png) **MCPD: Web Developer 4** _Microsoft – mai de 2011 (Licença D246-4656)_  
-![alt](images/microsoft_small.png) **MCTS: .NET Framework 4, Service Communication Applications** _Microsoft – mai de 2011 (Licença D246-4658)_  
-![alt](images/microsoft_small.png) **MCTS: .NET Framework 4, Web Applications** _Microsoft – mai de 2011 (Licença D246-4655)_  
-![alt](images/microsoft_small.png) **Microsoft® Certified Technology Specialist ﴾MCTS﴿** _Microsoft – mai de 2011_  
+  - ![alt](images/oracle_small.png) **OCJP - Oracle Certified Java Programer** _Oracle – jul de 2011_  
+  - ![alt](images/microsoft_small.png) **MCPD: .NET Framework 4, Data Access** _Microsoft – mai de 2011 (Licença D246-4657)_  
+  - ![alt](images/microsoft_small.png) **MCPD: Web Developer 4** _Microsoft – mai de 2011 (Licença D246-4656)_  
+  - ![alt](images/microsoft_small.png) **MCTS: .NET Framework 4, Service Communication Applications** _Microsoft – mai de 2011 (Licença D246-4658)_  
+  - ![alt](images/microsoft_small.png) **MCTS: .NET Framework 4, Web Applications** _Microsoft – mai de 2011 (Licença D246-4655)_  
+  - ![alt](images/microsoft_small.png) **Microsoft® Certified Technology Specialist ﴾MCTS﴿** _Microsoft – mai de 2011_  
 
 > ## 2010
 
-![alt](images/microsoft_small.png) **MCPD: ASP.NET Developer 3.5** _Microsoft – mar de 2010 (Licença A548-3921)_  
-![alt](images/microsoft_small.png) **MCTS: .NET Framework 3.5, ASP.NET Applications** _Microsoft – mar de 2010 (Licença A548-3920)_  
-![alt](images/microsoft_small.png) **MCTS: Microsoft Windows® Mobile 5.0 Applications** _Microsoft – mar de 2010 (Licença A548-3916)_  
+  - ![alt](images/microsoft_small.png) **MCPD: ASP.NET Developer 3.5** _Microsoft – mar de 2010 (Licença A548-3921)_  
+  - ![alt](images/microsoft_small.png) **MCTS: .NET Framework 3.5, ASP.NET Applications** _Microsoft – mar de 2010 (Licença A548-3920)_  
+  - ![alt](images/microsoft_small.png) **MCTS: Microsoft Windows® Mobile 5.0 Applications** _Microsoft – mar de 2010 (Licença A548-3916)_  
  
 > ## 2009
  
-![alt](images/microsoft_small.png) **MCTS: .NET Framework 3.5, ADO.NET Applications** _Microsoft – jun de 2009 (Licença A548-3919)_ 
+  - ![alt](images/microsoft_small.png) **MCTS: .NET Framework 3.5, ADO.NET Applications** _Microsoft – jun de 2009 (Licença A548-3919)_ 
  
 > ## 2008
 
-![alt](images/microsoft_small.png) **MCPD: Web Developer** Microsoft – mai de 2008 (Licença A548-3914)_  
+  - ![alt](images/microsoft_small.png) **MCPD: Web Developer** Microsoft – mai de 2008 (Licença A548-3914)_  
 
 > ## 2007
 
-![alt](images/microsoft_small.png) **MCTS: .Net Framework 2.0, eb Applications** _Microsoft – nov de 2007 (Licença A548-3915)_ 
+  - ![alt](images/microsoft_small.png) **MCTS: .Net Framework 2.0, eb Applications** _Microsoft – nov de 2007 (Licença A548-3915)_ 
 
 > ## 2005
 
-![alt](images/microsoft_small.png) **Microsoft® Certified Professional Developer ﴾MCPD﴿** _Microsoft – set de  2005_  
-![alt](images/microsoft_small.png) **Microsoft Certified Professional** _Microsoft – set de 2005 (Licença C544-0080)_  
+  - ![alt](images/microsoft_small.png) **Microsoft® Certified Professional Developer ﴾MCPD﴿** _Microsoft – set de  2005_  
+  - ![alt](images/microsoft_small.png) **Microsoft Certified Professional** _Microsoft – set de 2005 (Licença C544-0080)_  
 
 # Palestras Ministradas
 
