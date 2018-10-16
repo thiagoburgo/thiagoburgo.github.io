@@ -1,7 +1,6 @@
 ---
-layout: default
-title: "Thiago Burgo's Resume/CV"
-description: "A brief (not so much =D) professional history"
+title:"Thiago Burgo's Resume/CV"
+description:"A brief (not so much =D) professional history"
 ---
 
 # Thiago Burgo Belo
